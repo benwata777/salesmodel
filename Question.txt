@@ -1,0 +1,10 @@
+Develop a web application to display "Food sales.xlsx" data.
+Requirement
+- Coding separate between Web App(Frontend) and Web Service(Restful).
+- Able to add,edit,delete records.
+- Able to sort by column.
+- Able to search specific value by column.
+- Able to filter by period date.
+ 
+ 
+ 
